@@ -3,9 +3,7 @@
 # build and deploy the cloud run api
 # how to run
 # sh deploy_cloud_run.sh PROJECT_ID SERVICE_NAME IMAGE_NAME IMAGE_TAG
-# e.g.
-# sh deploy_cloud_run.sh ml-console-dev slammer slammer 0.0.1
-# sh deploy_cloud_run.sh social-media-ingestion slammer slammer 0.0.2
+
 
 
 PROJECT_ID=$1
